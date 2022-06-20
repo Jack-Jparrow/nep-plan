@@ -6,34 +6,60 @@
 ![](kebiao.png)
 
 #### 软件架构
-软件架构说明
+
+第一天课件(misc1-图片隐写)：20200201_nep_project1.rar
+第二天课件(misc2-数据编码)：20200202_nep_project2.zip
+第三天课件(misc3-流量分析)：20200202_nep_project3.zip
+第四天课件(cry-古典密码学简介)：20200201_nep_project4.zip
+第五天课件(cry-rsa加密与攻击)：20200201_nep_project5.zip
+第六天课件(web1-web入门简介 工具见下方)：20200201_nep_project6.zip
+第七天课件(web2-php&&ssrf)：20210201_nep_project7.zip
+第八天课件(web3-sql注入)：20210201_nep_project8.zip
+第九天课件(web4-文件上传)：20210201_nep_project9.rar
+第十天课件(web5-rce专题)：20210201_nep_project10.zip
+第十一天课件(re1-x86汇编)：20210201_nep_project11.zip
+第十二天课件(re2-pe结构)：20210201_nep_project12.zip
+第十三天课件(re3-静态分析与动态分析)：20210201_nep_project13.zip
+第十四天课件(re4-加解密算法)：20210201_nep_project14.rar
+第十五天课件(re5-壳与脱壳)：20210201_nep_project15.zip
+第十六天课件(pwn1-pwn工具使用)：20210201_nep_project16.zip
+第十七天课件(pwn2-栈溢出)：20210201_nep_project17.zip
+第十八天课件(pwn3-栈溢出进阶)：20210201_nep_project18.zip
+第十九天课件(pwn4-ptmalloc机制)：20210201_nep_project19.zip
+第二十天课件(pwn5-堆溢出基本利用)：20210201_nep_project20.zip
+第二十一天课件(src1-WEB安全入门基础)：20210201_nep_project21.zip
 
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+第九天回放（未剪辑）：
+链接: https://pan.baidu.com/s/12yrptg85evI-XS733mnKrw
+提取码：0sub
 
 
-#### 特技
+第十天回放（未剪辑）：
+链接: https://pan.baidu.com/s/10UMmahGU31PhiKdDxFHRtQ
+提取码：fbqc
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+第十一天回放（重制版）：
+链接: https://pan.baidu.com/s/1_cpHdTQr3O6t5ukALbyqAQ
+提取码：837c
+
+
+第十一天回放（无声版）：
+链接: https://pan.baidu.com/s/1HEZz7mBEcRroPQiLE6U0Cw
+提取码：6h0p
+
+
+第十二天回放（未剪辑）：
+链接: https://pan.baidu.com/s/1Wc_jwvmoolTRr42L4zvfKQ
+提取码：drj0
+
+
+第十三天回放（未剪辑）：
+链接: https://pan.baidu.com/s/1Zy52tMdP-LT_GFHeV7J5AQ
+提取码：wi6j
+
+
+第六天工具：
+链接: https://pan.baidu.com/s/1MmaoYiyFtmA73hoWC27-Vg
+提取码: 8khc
